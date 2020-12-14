@@ -1,2 +1,6 @@
-/vendor
-.env
+/01-first-Laravel-app/first-app/vendor
+/01-first-Laravel-app/first-app/.env
+
+/02-simple-project/simple_project/vendor
+/02-simple-project/simple_project/.env
+/02-simple-project/simple_project/storage
